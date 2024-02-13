@@ -1,0 +1,15 @@
+button {
+    border-radius: 10px;
+    padding: 0.5em;
+}
+
+table {
+    border-spacing: 1em;
+}
+
+td {
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 0.5em;
+    background-color: rgb(241, 184, 161);
+}
